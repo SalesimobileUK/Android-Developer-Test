@@ -8,7 +8,7 @@ The purpose is to build a simple app, which meets the following requirments:
 * Allow the user to filter the list of images based on name.
 * Displays the full details of an item when one is clicked from the list.
 
-The app can be written in either Kotlin or Java and must follow a Test-Driven-Development approach.
+The app can be written in either Kotlin or Java and must be built using a Test-Driven-Development approach.
 
 # API Details
 

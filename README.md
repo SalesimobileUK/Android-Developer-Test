@@ -1,4 +1,4 @@
-# Android Developer Test
+# Mobile Developer Test
 
 The following repository is for the Android Developer Test for Sales-I
 

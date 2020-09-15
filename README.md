@@ -11,7 +11,7 @@ The purpose is to build a simple app, which meets the following requirments:
 * Prevents the user from adding an image, unless all mandatory fields are completed (id, author, url, height and width).
 * Allows the user to delete any added image, which must be confirmed by the user first.
 
-The app can be written whichever language is suited best for yourself and must be built using a Test-Driven-Development approach.
+The app can be written, structured and built using any language and approach which you would like to use.
 
 # API Details
 
